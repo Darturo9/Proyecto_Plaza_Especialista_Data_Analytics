@@ -161,4 +161,4 @@ LIMIT 10;
 
 ---
 
-Proyecto desarrollado como parte del proceso de aplicacion para Especialista Data Analytics y Proyectos - Banco Industrial, Guatemala (Diciembre 2024).
+Proyecto desarrollado como parte del proceso de aplicacion para Especialista Data Analytics y Proyectos
