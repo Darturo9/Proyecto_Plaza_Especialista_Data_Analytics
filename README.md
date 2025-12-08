@@ -158,7 +158,6 @@ LIMIT 10;
 **Danilo Arturo Giron**
 
 - GitHub: [@Darturo9](https://github.com/Darturo9)
-- LinkedIn: [Tu perfil de LinkedIn]
 
 ---
 
